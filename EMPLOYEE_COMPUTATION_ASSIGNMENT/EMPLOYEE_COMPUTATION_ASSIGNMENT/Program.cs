@@ -8,3 +8,4 @@ Uc4_SwitchEmpWage.EmpWage();
 Uc5_20WorkingDays.Emp20DaysWage();
 Uc6_Max100hours.EmpMax100HrsWage();
 Uc7_Using_Wage_Method.method();
+Uc8_Wage_To_Multiple_Company.wagemethod();
